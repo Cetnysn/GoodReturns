@@ -1,0 +1,24 @@
+.main-logo{
+    width: 1rem;
+    
+}
+
+.ads
+{
+    width: 40%;
+    left: 250px;
+    top: 45px;
+}
+
+
+.navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: 80px;
+    overflow: hidden;
+}
+
+#mortgates .container{
+    width: 100%;
+}
